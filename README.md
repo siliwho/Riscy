@@ -74,3 +74,11 @@ I am bulding a devboard using esp32-c3 for risc 5 architechture.
   `https://robu.in/product/rc0805fr-0727rl-yageo-smd-chip-resistor-27-ohm-%C2%B1-1-125-mw-0805-2012-metric-thick-film-general-purpose/`
 - 1 (1206) x2
   `https://robu.in/product/1-ohm-1-4w-1206-surface-mount-chip-resistor-pack-of-100/?gad_source=1&gclid=CjwKCAiAqfe8BhBwEiwAsne6gYzLEAPAPqUGiqb02MYLoErwIDmVYmgq0LpQvgXpQUw6lDAnweQhTRoCmqYQAvD_BwE`
+
+# PCB editor
+
+![alt text](image.png)
+
+# 3D view
+
+![alt text](image-1.png)

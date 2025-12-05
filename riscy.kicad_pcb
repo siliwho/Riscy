@@ -108,7 +108,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -7076,8 +7075,9 @@
 			)
 		)
 		(property "Value" "Conn_01x15_Pin"
-			(at 7 22.89 0)
+			(at 16 12.82 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f3102c91-1a3e-464a-a85d-cd4beb016fa2")
 			(effects
 				(font
